@@ -1,0 +1,15 @@
+{
+  "name": "arina_math_package",
+  "version": "1.0.1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Arina Tsyptsova",
+  "license": "ISC",
+  "description": "Quadratic Equations",
+  "dependencies": {
+    "arina_math_package": "^1.0.1"
+  }
+}
